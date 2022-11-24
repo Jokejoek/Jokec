@@ -19,10 +19,10 @@ public class JavaClassIncomeTaxCalculator {
 			taxPayable=taxableIncome*TAX_RATE_ABOVE_20K;
 			} else if (taxableIncome <= 60000) { 
 			taxPayable = taxableIncome-=40000;
-			taxPayable = taxableIncome*TAX_RATE_ABOVE_40K+20000;
+			taxPayable = taxableIncome*TAX_RATE_ABOVE_40K+2000;
 			} else { 
 			taxPayable = taxableIncome-=60000;
-			taxPayable = taxableIncome*TAX_RATE_ABOVE_60K+40000;
+			taxPayable = taxableIncome*TAX_RATE_ABOVE_60K+6000;
 			}
 		System.out.println("The in come tax payable is: $"+frm.format(taxPayable));
 	}

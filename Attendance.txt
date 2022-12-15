@@ -1,4 +1,5 @@
+Date : 12-5-2022
 StudentID:2213111376
 FULLNAME (in English): Chayanon Plachiwa
 AKA: Gap
-ClassDetail: Repeat Lab Sheet 1-4
+ClassDetail: Array in Java

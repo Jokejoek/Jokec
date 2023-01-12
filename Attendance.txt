@@ -1,5 +1,5 @@
-Date : 22-12-2022
+Date : 1-12-2023
 StudentID:2213111376
 FULLNAME (in English): Chayanon Plachiwa
 AKA: Gap
-ClassDetail: Class and Object
+ClassDetail: Wrap up Lab Sheet

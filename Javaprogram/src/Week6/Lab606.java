@@ -17,11 +17,11 @@ public class Lab606 {
 	}
 
 	private static int nextData(int[] number, int pos) {
-		return (pos >= 0 && pos <= 6) ? number[pos + 1] : -1;
+		return (pos >= 0 && pos <= 6) ? number[pos + 1];
 	}
 
 	private static int prevData(int[] number, int pos) {
-		return (pos >= 0 && pos <= 6) ? number[pos - 1] : -1;
+		return (pos >= 0 && pos <= 6) ? number[pos - 1];
 
 	}
 
